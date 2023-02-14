@@ -18,11 +18,11 @@ Dlib       | 19.24.0  | pip install dlib
 ### Running the script
 1. Clone the repository to your local machine
     ```bash
-    git clone https://github.com/Nicolas-Formenton/Face_Detection_Model_ML.git
+    git clone https://github.com/Nicolas-Formenton/Facial_Detection_Model_ML.git
     ```
 2. Change into the directory of the cloned repository
     ```bash 
-    cd Face_Detection_Model_ML
+    cd Facial_Detection_Model_ML
     ```
 3. Install the required libraries
     ```bash
