@@ -1,0 +1,4 @@
+opencv-python==4.x
+mediapipe==0.9.1
+dlib==19.24.0
+numpy==1.19.x
