@@ -1,4 +1,4 @@
-# Hand Detection Model using OpenCV
+# Facial Recognition Model using OpenCV
 
 ### Project Overview
 This code is a simple Python program that demonstrates face detection and landmark detection using the Dlib library and OpenCV. The folder also has an `EyeDetection.ipynb` file that only tracks your eyes, instead of your whole face.
